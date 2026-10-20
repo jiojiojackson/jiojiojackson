@@ -1,55 +1,65 @@
  
 <div align="center">
 
-# 🌌 Hello, World! 👋
+<h1>🌌 Hello, World! I'm jiojiojackson 👋</h1>
 
-### 🤖 AI-Powered Coding | 🚀 Creative Building | 🌍 Endless Exploration
+<p><strong>🤖 AI-Powered Coding &nbsp;·&nbsp; 💡 Creative Thinking &nbsp;·&nbsp; 🌍 Endless Exploration</strong></p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Think+Beyond+Limits.;Code+with+AI.+Create+with+Passion.;Stay+Curious.+Keep+Exploring.;Let's+Explore+the+World+Together!)
-
-![AI](https://img.shields.io/badge/AI-ENTHUSIAST-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Vibe Coding](https://img.shields.io/badge/VIBE-CODING-00C896?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Explorer](https://img.shields.io/badge/WORLD-EXPLORER-0088FF?style=for-the-badge&logo=googleearth&logoColor=white)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00B8D9&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality...;Building+cool+things+with+AI...;Learning.+Creating.+Exploring.;Let's+explore+the+world+together!)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 A Little About Me
 
-I'm a curious mind who loves **coding with AI**, turning wild ideas into reality, and discovering what's possible with technology.
+Hey there! I'm a curious explorer who loves **building things with AI** and discovering new possibilities through technology.
 
-I believe the future belongs to those who never stop learning, experimenting, and exploring.
+For me, coding isn't just about writing code. It's about bringing ideas to life, experimenting with the unknown, and enjoying the process along the way.
 
-- 🤖 **AI is my co-pilot.** Imagination is my superpower.
-- 💻 **Code is my playground.** Every idea is worth exploring.
-- 🚀 **Build fast, learn faster.** Experiment, iterate, evolve.
-- 🌍 **The world is our laboratory.** There's always something new to discover.
+- 🤖 **AI as a creative partner** — turning imagination into working projects.
+- 🛠️ **Build, break, learn, repeat** — the best way to learn is by doing.
+- 🌱 **Always curious** — there's something new to discover every day.
+- 🌍 **Beyond the code** — exploring new ideas, perspectives, and the world around us.
 
-## ⚡ My Coding Philosophy
 
-**`💡 Imagine → 🤖 Collaborate with AI → 💻 Build → 🚀 Explore`**
+## ⚡ How I Build
 
-I don't just write code.
+<table align="center">
+  <tr>
+    <td align="center">💡<br><b>Imagine</b></td>
+    <td align="center">➜</td>
+    <td align="center">🤖<br><b>AI Partner</b></td>
+    <td align="center">➜</td>
+    <td align="center">💻<br><b>Build</b></td>
+    <td align="center">➜</td>
+    <td align="center">🧪<br><b>Improve</b></td>
+    <td align="center">➜</td>
+    <td align="center">🌍<br><b>Explore</b></td>
+  </tr>
+</table>
 
-I explore ideas, challenge boundaries, and create things that didn't exist yesterday.
+<p align="center">
+  <em>🔄 Every discovery sparks a new idea.</em>
+</p>
 
-With AI, the distance between **"What if?"** and **"Why not?"** has never been shorter.
+<p align="center">
+  <b>Imagine freely. Build boldly. Keep exploring. 🚀</b>
+</p>
 
-## 🌠 Let's Explore Together!
 
-The world is full of unanswered questions, exciting possibilities, and incredible adventures.
+## 🌍 Let's Explore Together
 
-Whether it's building something with AI, exploring new technologies, or chasing a crazy idea — **let's push the boundaries of what's possible.**
+There's so much out there to learn, build, and discover.
 
-**Stay curious. Keep creating. Never stop exploring.**
+Whether you're experimenting with AI, creating something new, or simply following your curiosity, we're all exploring in our own way.
+
+**Let's share ideas, create cool things, and see where the journey takes us. 🚀**
 
 <div align="center">
 
-### 🌍 The World Is Our Playground.
+<h3>✨ Stay Curious. Keep Building. Explore Beyond. ✨</h3>
 
-**✨ Dream Big. Code Smart. Explore Beyond. ✨**
-
-![Visitors](https://komarev.com/ghpvc/?username=jiojiojackson&label=Fellow%20Explorers&color=00D9FF&style=flat-square)
+<img src="https://api.visitorbadge.io/api/visitors?path=jiojiojackson&label=Explorers&countColor=%2300B8D9&style=flat" alt="Profile Visitors" />
 
 </div>
